@@ -1,0 +1,11 @@
+napari==0.7.1
+napari-console==0.1.4
+napari-metadata==0.3.0
+napari-plugin-engine==0.2.1
+napari-plugin-manager==0.1.11
+napari-svg==0.2.1
+numpy==2.4.6
+pydicom==3.0.2
+scikit-image==0.26.0
+scipy==1.18.0
+SimpleITK==2.5.6
